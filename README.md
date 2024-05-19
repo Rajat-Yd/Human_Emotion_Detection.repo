@@ -5,4 +5,5 @@
 - Curently onlly have three Emotion detection :
      - Angry
      - Sad
-     - Happy 
+     - Happy
+- Real Time Face Capturing for Emotion Detection.
