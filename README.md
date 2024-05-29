@@ -7,4 +7,3 @@
      - Sad
      - Happy
 - Real Time Face Capturing for Emotion Detection.
-- aaj kuch nhi kaal kerte hai 🥲
